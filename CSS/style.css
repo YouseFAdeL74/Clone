@@ -64,9 +64,8 @@ body {
   margin-top: 20px;
   text-transform: uppercase;
   margin: 25px 0 0;
-  -webkit-text-stroke: white 1px;
   font-size: 40px;
-  -webkit-text-stroke: white 2px;
+  -webkit-text-stroke: white 1.5px;
   font-weight: bold;
 }
 
@@ -111,7 +110,7 @@ body {
   margin: 0;
   margin-left: 40px;
   margin-top: -12px;
-  -webkit-text-stroke: white 2px;
+  -webkit-text-stroke: white 1.5px;
 }
 
 .navbar .toggle-bar {

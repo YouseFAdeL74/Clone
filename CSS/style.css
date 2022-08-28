@@ -202,6 +202,7 @@ body {
 .landing .container .text h3 {
   font-size: 70px;
   text-align: center;
+  letter-spacing: 6px;
   font-weight: bolder;
   color: var(--main-color);
   -webkit-text-stroke-color: white;
